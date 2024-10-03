@@ -1,0 +1,6 @@
+.env
+*.mp3
+mp3_parts
+transcriptions
+venv
+*report.md
